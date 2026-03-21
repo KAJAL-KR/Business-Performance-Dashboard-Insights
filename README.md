@@ -1,4 +1,34 @@
-# Business-Performance-Analysis-Reporting
- Overview: You are working as a Junior Data Analyst at a company that tracks sales and customer information. Your manager has shared a dataset containing sales transactions, and you’ve been assigned to analyze it to uncover trends, patterns, and generate summary reports.
+# Business Performance Analysis & Reporting 📊
 
-Your role is to clean the dataset, analyze key business metrics, generate visualizations, and export reports — using only Pandas, NumPy, Matplotlib, and Seaborn. The goal is to simulate a real-world reporting workflow based on company data.
+Sales performance analysis using Python + SQL on 1,194 transactions 
+spanning 2020–2025, simulating Junior Data Analyst responsibilities.
+
+## Key Findings
+- Debit Card is the #1 payment mode by both usage & profit
+- Markers & Tables are top revenue-generating sub-categories
+- Florida & New York lead all states in total profit
+
+## Project Steps
+| Step | Task |
+|------|------|
+| 1 | Load & Explore Dataset |
+| 2 | Data Cleaning & Preprocessing |
+| 3 | Operational Insights via SQL |
+| 4 | Product Analysis via SQL |
+| 5 | Data Visualization (4 charts) |
+| 6 | Export Combined Business Report |
+
+## Tools & Technologies
+- **Language:** Python 3
+- **Libraries:** Pandas · Matplotlib · Seaborn · SQLite3
+- **Technique:** In-memory SQL queries via sqlite3
+- **Dataset:** 1,194 rows × 12 columns (2020–2025)
+
+## Skills Demonstrated
+SQL querying · Data cleaning · Business insight generation ·
+Multi-chart visualization · CSV report export
+```
+
+**About section (gear icon):**
+```
+Business performance analysis using Python + SQL on 1,194 transactions. Covers operational insights, product analysis, profit trends & visualization.
