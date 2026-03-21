@@ -28,7 +28,5 @@ spanning 2020–2025, simulating Junior Data Analyst responsibilities.
 SQL querying · Data cleaning · Business insight generation ·
 Multi-chart visualization · CSV report export
 ```
-
-**About section (gear icon):**
 ```
 Business performance analysis using Python + SQL on 1,194 transactions. Covers operational insights, product analysis, profit trends & visualization.
