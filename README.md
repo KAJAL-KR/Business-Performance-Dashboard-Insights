@@ -1,7 +1,8 @@
 # 📊 Business Performance Analysis & Reporting
 
 ## 🔍 Overview  
-Analyzed business transaction data (1,194 records from 2020–2025) using Python and SQL to uncover insights on sales performance, product trends, and profitability.  
+Analyzed 1,194 business transactions (2020–2025) using Python and SQL to uncover insights on sales performance, product trends, and profitability.
+Built an end-to-end analysis workflow including data cleaning, SQL-based insights, and visualization to support data-driven business decisions. 
 
 This project simulates real-world **Junior Data Analyst responsibilities**, focusing on data cleaning, SQL-based analysis, and visualization.
 
